@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f201791_e1e5113a",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 9207
+      },
+      "writtenOn": "2015-08-20T19:17:41Z",
+      "side": 1,
+      "message": "Could this value be increased a bit? That way, the user can notice the dimming even on minimum brightness.",
+      "range": {
+        "startLine": 26,
+        "startChar": 58,
+        "endLine": 26,
+        "endChar": 60
+      },
+      "revId": "8e3e214e79e9858eb5a405a7766c735eb5fbaee4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
